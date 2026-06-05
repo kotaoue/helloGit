@@ -1,2 +1,3 @@
-# learnRebase
-I learn a git rebase.
+# helloGit
+
+Git? What's that? Is it tasty?
