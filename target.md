@@ -1,8 +1,1 @@
-# lists
-* Hoge 
-* Piyo 
-* Fuga 
-* A 
-* B 
-* C
-* D
+2026-06-05
